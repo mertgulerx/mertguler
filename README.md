@@ -51,11 +51,12 @@
     "education": {
       "university": "Yıldız Technical University",
       "department": "Computer Engineering",
-      "class": "3"
+      "class": "4"
     },
     "languages": {
       "Turkish": "Native",
       "English": "Advanced",
+      "German": "Elementary"
     },
     "musical_instruments": [
       "Kalimba"
