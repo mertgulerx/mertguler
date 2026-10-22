@@ -36,6 +36,7 @@
     },
     "programming_languages": [
       "Java",
+      "Kotlin",
       "C",
       "C++",
       "Python"
